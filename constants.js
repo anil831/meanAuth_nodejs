@@ -1,0 +1,7 @@
+module.exports = {
+    ACCESS_TOKEN_MAX_AGE : 15 * 60 * 1000,
+    REFRESH_TOKEN_MAX_AGE : 1 * 60 * 60 * 1000,
+    ACCESS_TOKEN_EXPIRES_IN:'15m',
+    REFRESH_TOKEN_EXPIRES_IN:'1h'  
+
+}
